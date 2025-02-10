@@ -1,4 +1,5 @@
 import time
+import date
 
 def monitor_log(file_path, keywords):
     """Monitor a log file for specific keywords and alert if found."""
